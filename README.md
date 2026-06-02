@@ -1,16 +1,25 @@
 <div align="center">
+
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0F7B8C,100:00ff88&height=200&section=header&text=Poorna%20Amarapathi&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20%7C%20Ethical%20Hacking%20%7C%20AI%20Security&descAlignY=58&descSize=18&animation=fadeIn"/>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&width=700&lines=🔐+Cybersecurity+Intern+Candidate;🛡️+Ethical+Hacking+%7C+Network+Security;🤖+AI-Powered+Security+Tools+Builder;📡+Cisco+NetAcad+Learner+%7C+SLIIT+%40+3.35+GPA)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&width=700&lines=🔐+Cybersecurity+Intern+Candidate;🛡️+Ethical+Hacking+%7C+Network+Security;🤖+AI-Powered+Security+Tools+Builder;📡+Cisco+NetAcad+Learner+%7C+SLIIT+%40+3.35+GPA)](https://git.io/typing-svg)
+
 <br>
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Poornadeshan27-181717?style=for-the-badge&logo=github&logoColor=white)
-![Location](https://img.shields.io/badge/📍-Colombo%2C%20Sri%20Lanka-00ff88?style=for-the-badge&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/poorna-amarapathi)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poorna230deshan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Poornadeshan27-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Poornadeshan27)
+[![Location](https://img.shields.io/badge/📍-Colombo%2C%20Sri%20Lanka-00ff88?style=for-the-badge&logoColor=white)](#)
+
 </div>
+
 ---
+
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Poornadeshan27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&ring_color=0F7B8C"/>
-👾 `whoami`
+
+## 👾 `whoami`
+
 ```python
 class PoornaAmarapathi:
 
@@ -24,64 +33,99 @@ class PoornaAmarapathi:
     seeking    = "Cybersecurity Internship 2025/2026"
     available  = True  # ✅ Open to opportunities
 ```
+
 <br clear="right"/>
+
 ---
-🛡️ Technical Arsenal
+
+## 🛡️ Technical Arsenal
+
 <div align="center">
-Security & Networking
+
+**Security & Networking**
+
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white)
-Programming & Scripting
+
+**Programming & Scripting**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-AI / ML & Dev Tools
+
+**AI / ML & Dev Tools**
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </div>
+
 ---
-🚀 Featured Projects
+
+## 🚀 Featured Projects
+
 <div align="center">
-🛡️ Project	📋 Description	🔧 Stack
-Phish Guard — Heuristic URL Scanner	Desktop app using heuristic analysis to detect phishing & malicious URLs in real-time	`Python` `CustomTkinter` `APIs`
-Jarvis AI Assistant — Voice AI	AI-powered assistant with voice/text interaction, task automation & API integration	`Python` `NLP` `Voice Recognition`
-AI Video Detector — CV System	Real-time object detection & event classification from live video streams	`TensorFlow` `OpenCV` `Python`
-Location Tracker — GPS Security	Secure real-time location tracking with encrypted data transmission & route visualisation	`Python` `GPS APIs` `Networking`
-Restaurant Platform — Web App	Queue-based table reservation system with OOP architecture & booking management	`Java` `JSP/Servlets` `MySQL`
+
+| 🛡️ Project | 📋 Description | 🔧 Stack |
+|:---|:---|:---|
+| **[Phish Guard](https://github.com/Poornadeshan27)** — Heuristic URL Scanner | Desktop app using heuristic analysis to detect phishing & malicious URLs in real-time | `Python` `CustomTkinter` `APIs` |
+| **[Jarvis AI Assistant](https://github.com/Poornadeshan27)** — Voice AI | AI-powered assistant with voice/text interaction, task automation & API integration | `Python` `NLP` `Voice Recognition` |
+| **[AI Video Detector](https://github.com/Poornadeshan27)** — CV System | Real-time object detection & event classification from live video streams | `TensorFlow` `OpenCV` `Python` |
+| **[Location Tracker](https://github.com/Poornadeshan27)** — GPS Security | Secure real-time location tracking with encrypted data transmission & route visualisation | `Python` `GPS APIs` `Networking` |
+| **[Restaurant Platform](https://github.com/Poornadeshan27)** — Web App | Queue-based table reservation system with OOP architecture & booking management | `Java` `JSP/Servlets` `MySQL` |
+
 </div>
+
 ---
-📊 GitHub Analytics
+
+## 📊 GitHub Analytics
+
 <div align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poornadeshan27&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Poornadeshan27&theme=tokyonight&hide_border=true&background=0D1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=ffffff"/>
+
 </div>
+
 <div align="center">
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Poornadeshan27&theme=react-dark&bg_color=0d1117&color=00ff88&line=0F7B8C&point=00ff88&hide_border=true)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Poornadeshan27&theme=react-dark&bg_color=0d1117&color=00ff88&line=0F7B8C&point=00ff88&hide_border=true)](https://github.com/Poornadeshan27)
+
 </div>
+
 ---
-🎓 Education
-Degree	Institution	Result	Year
-🎓 BSc (Hons) IT — Cyber Security	SLIIT, Malabe	GPA: 3.35/4.00	Current
-📘 G.C.E. A/L — Commerce Stream	Mahanama College, Colombo	3A Passes	2023
-📗 AAT Level 2 — Intermediate	AATSL	Pass	2024
-📙 G.C.E. O/L	Mahanama College, Colombo	Pass	2020
+
+## 🎓 Education
+
+| Degree | Institution | Result | Year |
+|:---|:---|:---:|:---:|
+| 🎓 BSc (Hons) IT — **Cyber Security** | SLIIT, Malabe | **GPA: 3.35/4.00** | Current |
+| 📘 G.C.E. A/L — Commerce Stream | Mahanama College, Colombo | **3A Passes** | 2023 |
+| 📗 AAT Level 2 — Intermediate | AATSL | Pass | 2024 |
+| 📙 G.C.E. O/L | Mahanama College, Colombo | Pass | 2020 |
+
 ---
-📜 Certifications & Learning Path
+
+## 📜 Certifications & Learning Path
+
 <div align="center">
+
 ![Cisco](https://img.shields.io/badge/Cisco_NetAcad-🎯_In_Progress-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Active_Learner-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-Getting_Started-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+
 </div>
+
 ```
 ✅  Professional English & IT        Aquinas College of Higher Education    2024
 ✅  How AI is Used in CyberSecurity  Oxford Home Study Centre               2026
@@ -90,17 +134,30 @@ Degree	Institution	Result	Year
 🎯  CEH — Certified Ethical Hacker                                          Goal 2026
 🎯  OSCP — Offensive Security                                               Future Goal
 ```
+
 ---
-🏆 Platforms
+
+## 🏆 Platforms
+
 <div align="center">
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Poornadeshan27.png)
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Poornadeshan27.png)](https://tryhackme.com/p/Poornadeshan27)
+
 </div>
+
 ---
-🤝 Let's Connect
+
+## 🤝 Let's Connect
+
 <div align="center">
+
 > 🔍 **Currently seeking a Cybersecurity Internship — Available for opportunities!**
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-poorna230deshan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/poorna-amarapathi)
+[![Gmail](https://img.shields.io/badge/Gmail-poorna230deshan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poorna230deshan@gmail.com)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Poornadeshan27&color=00ff88&style=for-the-badge&label=Profile+Views)
+
 </div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:0F7B8C,100:0d1117&height=120&section=footer"/>
