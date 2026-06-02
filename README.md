@@ -1,199 +1,106 @@
 <div align="center">
-
-```
-██████╗  ██████╗  ██████╗ ██████╗ ███╗   ██╗ █████╗
-██╔══██╗██╔═══██╗██╔═══██╗██╔══██╗████╗  ██║██╔══██╗
-██████╔╝██║   ██║██║   ██║██████╔╝██╔██╗ ██║███████║
-██╔═══╝ ██║   ██║██║   ██║██╔══██╗██║╚██╗██║██╔══██║
-██║     ╚██████╔╝╚██████╔╝██║  ██║██║ ╚████║██║  ██║
-╚═╝      ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
-```
-
-<h2>Poorna Amarapathi</h2>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0F7B8C&center=true&vCenter=true&width=650&lines=IT+Undergraduate+%7C+Cyber+Security+%40+SLIIT;Ethical+Hacking+%7C+Network+Security+%7C+Python;Building+secure+systems%2C+one+line+at+a+time+%F0%9F%94%90)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-poorna--amarapathi-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/poorna-amarapathi)
-[![GitHub](https://img.shields.io/badge/GitHub-Poornadeshan27-181717?style=flat-square&logo=github)](https://github.com/Poornadeshan27)
-[![Email](https://img.shields.io/badge/Email-poorna230deshan%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:poorna230deshan@gmail.com)
-![Location](https://img.shields.io/badge/📍-Colombo%2C%20Sri%20Lanka-1B2A4A?style=flat-square)
-
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0F7B8C,100:00ff88&height=200&section=header&text=Poorna%20Amarapathi&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20%7C%20Ethical%20Hacking%20%7C%20AI%20Security&descAlignY=58&descSize=18&animation=fadeIn"/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&width=700&lines=🔐+Cybersecurity+Intern+Candidate;🛡️+Ethical+Hacking+%7C+Network+Security;🤖+AI-Powered+Security+Tools+Builder;📡+Cisco+NetAcad+Learner+%7C+SLIIT+%40+3.35+GPA)
+<br>
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Poornadeshan27-181717?style=for-the-badge&logo=github&logoColor=white)
+![Location](https://img.shields.io/badge/📍-Colombo%2C%20Sri%20Lanka-00ff88?style=for-the-badge&logoColor=white)
 </div>
-
 ---
-
-## 👾 About Me
-
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Poornadeshan27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&ring_color=0F7B8C"/>
+👾 `whoami`
 ```python
 class PoornaAmarapathi:
-    def __init__(self):
-        self.name       = "Poorna Amarapathi"
-        self.role       = "IT Undergraduate — Cyber Security"
-        self.university = "SLIIT, Malabe  |  GPA: 3.35 / 4.00"
-        self.location   = "Colombo, Sri Lanka 🇱🇰"
-        self.interests  = ["Ethical Hacking", "Network Security", "AI & ML", "Secure Systems"]
-        self.goals      = ["CEH Certification", "OSCP", "Internship in Cyber Security"]
 
-    def current_focus(self):
-        return [
-            "🔐 Exploring penetration testing & vulnerability assessment",
-            "🤖 Building AI-powered security tools",
-            "📚 2nd Year @ SLIIT — Cyber Security specialisation",
-        ]
+    role       = "Cybersecurity Intern Candidate"
+    university = "SLIIT | GPA: 3.35 / 4.00"
+    location   = "Colombo, Sri Lanka 🇱🇰"
+
+    skills     = ["Ethical Hacking", "Network Security",
+                  "Python Scripting", "AI Security Tools"]
+
+    seeking    = "Cybersecurity Internship 2025/2026"
+    available  = True  # ✅ Open to opportunities
 ```
-
+<br clear="right"/>
 ---
-
-## 🛡️ Technical Skills
-
-### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 🔐 Cyber Security & Networking
+🛡️ Technical Arsenal
+<div align="center">
+Security & Networking
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-
-### 🧠 AI / ML & Data
+![Cisco](https://img.shields.io/badge/Cisco_NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white)
+Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+AI / ML & Dev Tools
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠️ Tools & Dev
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛡️ Phish Guard
-**Heuristic URL Security Scanner**
-
-Desktop security tool that analyses URLs using heuristic methods to detect phishing & malicious websites.
-
-`Python` `CustomTkinter` `APIs` `Threat Detection`
-
-</td>
-<td width="50%">
-
-### 🤖 Jarvis AI Assistant
-**AI-Powered Virtual Assistant**
-
-Voice & text-enabled AI assistant with task automation, API integrations, and intelligent response mechanisms.
-
-`Python` `NLP` `APIs` `Voice Recognition`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📹 AI Video Detector
-**Real-Time Object Detection System**
-
-AI-powered video analysis system for detecting and classifying objects/events from live video streams.
-
-`Python` `OpenAI` `TensorFlow` `Computer Vision`
-
-</td>
-<td width="50%">
-
-### 📍 Real-Time Location Tracker
-**Secure GPS Tracking System**
-
-Location tracking system with secure data transmission, route tracking, and real-time visualisation.
-
-`Python` `GPS APIs` `Networking`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🍽️ Restaurant Reservation Platform
-**Web-Based Booking System**
-
-Queue-based table reservation platform with OOP design and efficient booking management.
-
-`Java` `JSP/Servlets` `OOP` `File Handling`
-
-</td>
-<td width="50%">
-
-### 🔮 More Coming Soon...
-Currently working on new security tools and CTF writeups.
-
-`Stay tuned` `⭐ Star the repos`
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Poornadeshan27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0F7B8C&icon_color=0F7B8C"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poornadeshan27&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0F7B8C"/>
-
 </div>
-
+---
+🚀 Featured Projects
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Poornadeshan27&theme=tokyonight&hide_border=true&background=0D1117&ring=0F7B8C&fire=0F7B8C&currStreakLabel=0F7B8C)](https://git.io/streak-stats)
-
+🛡️ Project	📋 Description	🔧 Stack
+Phish Guard — Heuristic URL Scanner	Desktop app using heuristic analysis to detect phishing & malicious URLs in real-time	`Python` `CustomTkinter` `APIs`
+Jarvis AI Assistant — Voice AI	AI-powered assistant with voice/text interaction, task automation & API integration	`Python` `NLP` `Voice Recognition`
+AI Video Detector — CV System	Real-time object detection & event classification from live video streams	`TensorFlow` `OpenCV` `Python`
+Location Tracker — GPS Security	Secure real-time location tracking with encrypted data transmission & route visualisation	`Python` `GPS APIs` `Networking`
+Restaurant Platform — Web App	Queue-based table reservation system with OOP architecture & booking management	`Java` `JSP/Servlets` `MySQL`
 </div>
-
 ---
-
-## 🎓 Education & Certifications
-
-```
-🎓  BSc (Hons) IT — Cyber Security   SLIIT, Malabe          GPA: 3.35/4.00   (Current)
-📘  G.C.E. A/L — Commerce Stream     Mahanama College       3A Passes         2023
-📗  AAT Level 2 — Intermediate       AATSL                                    2024
-```
-
-**Certifications:**
-
-![Oxford](https://img.shields.io/badge/Oxford_Home_Study-How_AI_is_Used_in_CyberSecurity-1B2A4A?style=flat-square)
-![Oxford](https://img.shields.io/badge/Oxford_Home_Study-Cybersecurity_for_Business-1B2A4A?style=flat-square)
-![Aquinas](https://img.shields.io/badge/Aquinas_College-Professional_English_%26_IT-0F7B8C?style=flat-square)
-
----
-
-## 🏆 Platforms & Progress
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active_Learner-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Getting_Started-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://hackthebox.com)
-
-```
-🎯  CEH Certification    ░░░░░░░░░░   Goal 2026
-🔴  OSCP                 ░░░░░░░░░░   Future Goal
-🟢  TryHackMe            ████████░░   Active
-```
-
----
-
+📊 GitHub Analytics
 <div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Poornadeshan27&color=0F7B8C&style=flat-square&label=Profile+Views)
-
-*"The quieter you become, the more you are able to hear."* — Kali Linux
-
-**⭐ If you find my work useful, give it a star!**
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poornadeshan27&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Poornadeshan27&theme=tokyonight&hide_border=true&background=0D1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=ffffff"/>
 </div>
+<div align="center">
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Poornadeshan27&theme=react-dark&bg_color=0d1117&color=00ff88&line=0F7B8C&point=00ff88&hide_border=true)
+</div>
+---
+🎓 Education
+Degree	Institution	Result	Year
+🎓 BSc (Hons) IT — Cyber Security	SLIIT, Malabe	GPA: 3.35/4.00	Current
+📘 G.C.E. A/L — Commerce Stream	Mahanama College, Colombo	3A Passes	2023
+📗 AAT Level 2 — Intermediate	AATSL	Pass	2024
+📙 G.C.E. O/L	Mahanama College, Colombo	Pass	2020
+---
+📜 Certifications & Learning Path
+<div align="center">
+![Cisco](https://img.shields.io/badge/Cisco_NetAcad-🎯_In_Progress-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Active_Learner-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-Getting_Started-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+</div>
+```
+✅  Professional English & IT        Aquinas College of Higher Education    2024
+✅  How AI is Used in CyberSecurity  Oxford Home Study Centre               2026
+✅  Cybersecurity for Business       Oxford Home Study Centre               2026
+🔄  Cisco Networking Academy         Network Fundamentals                   In Progress
+🎯  CEH — Certified Ethical Hacker                                          Goal 2026
+🎯  OSCP — Offensive Security                                               Future Goal
+```
+---
+🏆 Platforms
+<div align="center">
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Poornadeshan27.png)
+</div>
+---
+🤝 Let's Connect
+<div align="center">
+> 🔍 **Currently seeking a Cybersecurity Internship — Available for opportunities!**
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-poorna230deshan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Poornadeshan27&color=00ff88&style=for-the-badge&label=Profile+Views)
+</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:0F7B8C,100:0d1117&height=120&section=footer"/>
