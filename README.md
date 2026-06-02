@@ -78,8 +78,7 @@ class PoornaAmarapathi:
     goals_2026 = ["CEH — Certified Ethical Hacker",
                   "OSCP — Offensive Security"]
 
-    available  = True   # ✅ Actively seeking internship
-
+    available  = True   # 
 if __name__ == "__main__":
     hire = PoornaAmarapathi()
     print(f"📩 poorna230deshan@gmail.com")
