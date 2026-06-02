@@ -31,7 +31,7 @@ class PoornaAmarapathi:
                   "Python Scripting", "AI Security Tools"]
 
     seeking    = "Cybersecurity Internship 2025/2026"
-    available  = True  # ✅ Open to opportunities
+    available  = True 
 ```
 
 <br clear="right"/>
