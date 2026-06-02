@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poorna230deshan@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Poornadeshan27-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Poornadeshan27)
 [![Location](https://img.shields.io/badge/📍-Colombo%2C%20Sri%20Lanka-00ff88?style=for-the-badge&logoColor=white)](#)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-✅-00ff88?style=for-the-badge)](https://github.com/Poornadeshan27)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-✅-00ff88?style=for-the-badge)](#)
 
 </div>
 
@@ -30,7 +30,7 @@ class PoornaAmarapathi:
                   "Python Scripting", "AI Security Tools"]
 
     seeking    = "Cybersecurity Internship 2025/2026"
-    available  = True  # ✅ Open to opportunities
+    available  = True
 🛡️ Technical Arsenal
 <div align="center">
 🔐 Security & Networking
@@ -111,4 +111,4 @@ https://img.shields.io/badge/GitHub-Poornadeshan27-181717?style=for-the-badge&lo
 
 https://komarev.com/ghpvc/?username=Poornadeshan27&color=00ff88&style=for-the-badge&label=Profile+Views
 
-</div><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:0F7B8C,100:0d1117&height=120&section=footer"/> ```
+</div><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:0F7B8C,100:0d1117&height=120&section=footer"/>
