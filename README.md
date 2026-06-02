@@ -16,8 +16,6 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Poornadeshan27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&ring_color=0F7B8C"/>
-
 ## 👾 `whoami`
 
 ```python
@@ -31,7 +29,7 @@ class PoornaAmarapathi:
                   "Python Scripting", "AI Security Tools"]
 
     seeking    = "Cybersecurity Internship 2025/2026"
-    available  = True 
+    available  = True  # ✅ Open to opportunities
 ```
 
 <br clear="right"/>
